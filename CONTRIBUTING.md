@@ -16,4 +16,4 @@ Waitfing from you
 ****************************************************************************************************************************************
 ## Contributors
 
-[Anant Shrivastava](https://anantshri.info/) -- thank you for your guidelines
+[Anant Shrivastava](https://anantshri.info/) -- thank you for your guidance
